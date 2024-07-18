@@ -13,5 +13,15 @@ public class ExponentNumber {
             square=square*num;
         }
         System.out.print(square);
-    }
-}
+
+
+
+
+            }
+        }
+
+
+
+
+
+
